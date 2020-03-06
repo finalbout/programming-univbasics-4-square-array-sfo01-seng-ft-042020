@@ -1,7 +1,5 @@
 def square_array(array)
-i = 0
-while i < numbers.length
-  numbers.index ** 2
+numbers.map { |e| e ** 2 }
 end
 
 
