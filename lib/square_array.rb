@@ -3,7 +3,8 @@ count = 0
 while count < numbers.length do
   numbers.index **2
 end
-square_array
+square_array(numbers)
+end
 
 #while pets[counter] do
   #puts pets[counter]
