@@ -6,7 +6,3 @@ end
 square_array(numbers)
 end
 
-#while pets[counter] do
-  #puts pets[counter]
- # counter += 1
-#end
